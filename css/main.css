@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+#grid {
+    grid-template-columns: repeat(4, 85px);
+    grid-column-gap: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+header {
+    height: 391px;
+    background-image: url(../images/orange-drink-nature.jpg);
+}
+
+body {
+    width: 428px;
+}
